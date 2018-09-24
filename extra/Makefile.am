@@ -1,2 +1,2 @@
 EXTRA_DIST = $(srcdir)/Chrome \
-	     $(srcdir)/Arc-Plank
+	     $(srcdir)/Arc-Gruvboxed-Plank
