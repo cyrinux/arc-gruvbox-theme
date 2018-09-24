@@ -1,5 +1,5 @@
 AC_INIT(
-    [arc-grey-gruvboxed-theme],
+    [arc-gruvbox-theme],
     [20161119],
     [https://github.com/horst3180/Arc-theme/issues],
     [arc-theme],

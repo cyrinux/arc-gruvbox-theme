@@ -1,11 +1,11 @@
 if !ENABLE_TRANSPARENCY
-themedir        = $(datadir)/themes/Arc-Gruvboxed-solid
-themedarkerdir  = $(datadir)/themes/Arc-Gruvboxed-Darker-solid
-themedarkdir    = $(datadir)/themes/Arc-Gruvboxed-Dark-solid
+themedir        = $(datadir)/themes/Arc-Gruvbox-solid
+themedarkerdir  = $(datadir)/themes/Arc-Gruvbox-Darker-solid
+themedarkdir    = $(datadir)/themes/Arc-Gruvbox-Dark-solid
 else
-themedir        = $(datadir)/themes/Arc-Gruvboxed
-themedarkerdir  = $(datadir)/themes/Arc-Gruvboxed-Darker
-themedarkdir    = $(datadir)/themes/Arc-Gruvboxed-Dark
+themedir        = $(datadir)/themes/Arc-Gruvbox
+themedarkerdir  = $(datadir)/themes/Arc-Gruvbox-Darker
+themedarkdir    = $(datadir)/themes/Arc-Gruvbox-Dark
 endif
 
 ithemedir       = $(DESTDIR)$(themedir)

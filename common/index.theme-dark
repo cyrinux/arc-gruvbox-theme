@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Gruvboxed-Dark
+Name=Arc-Gruvbox-Dark
 Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Gruvboxed-Dark
-MetacityTheme=Arc-Gruvboxed-Dark
+GtkTheme=Arc-Gruvbox-Dark
+MetacityTheme=Arc-Gruvbox-Dark
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
