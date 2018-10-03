@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>Arc-Gruvbox</name>
+	<name>Arc</name>
 	<author>horst3180</author>
 	<copyright>horst3180</copyright>
 	<date>2015</date>
-	<description>Arc-Gruvbox Metacity theme</description>
+	<description>Arc Metacity theme</description>
 </info>
 
 <!-- meaningfull constants -->
@@ -13,8 +13,8 @@
 <constant name="C_title_focused" value="gtk:custom(wm_title,#70788d)" />
 <constant name="C_title_unfocused" value="gtk:custom(wm_unfocused_title,#979dac)" />
 
-<constant name="C_wm_bg_focused" value="gtk:custom(wm_bg,#363231)" />
-<constant name="C_wm_bg_unfocused" value="gtk:custom(wm_bg,#363231)" />
+<constant name="C_wm_bg_focused" value="gtk:custom(wm_bg,#282828)" />
+<constant name="C_wm_bg_unfocused" value="gtk:custom(wm_bg,#282828)" />
 
 <constant name="C_wm_highlight" value="gtk:custom(wm_highlight,#eeeff1)" />
 
@@ -34,8 +34,8 @@
 <constant name="C_button_border_hover" value="gtk:custom(wm_button_hover_border,#d4d4d4)" />
 
 <constant name="C_icon_bg_focused" value="gtk:custom(wm_icon_bg,#d4d4d4)" />
-<constant name="C_icon_bg_unfocused" value="gtk:custom(wm_icon_unfocused_bg,#acabab)" />
-<constant name="C_icon_bg_hover" value="gtk:custom(wm_icon_hover_bg,#acabab)" />
+<constant name="C_icon_bg_unfocused" value="gtk:custom(wm_icon_unfocused_bg,#a9a9a9)" />
+<constant name="C_icon_bg_hover" value="gtk:custom(wm_icon_hover_bg,#a9a9a9)" />
 <constant name="C_icon_bg_active" value="gtk:custom(wm_icon_active_bg,#4c4c4c)" />
 
 <!-- geometries -->
