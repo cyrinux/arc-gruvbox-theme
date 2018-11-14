@@ -32,22 +32,22 @@
     <linearGradient
        id="linearGradient4882">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#4c4c4c;stop-opacity:1;"
          offset="0"
          id="stop4884" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#4c4c4c;stop-opacity:0;"
          offset="1"
          id="stop4886" />
     </linearGradient>
     <linearGradient
        id="linearGradient3784-6">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.21568628;"
+         style="stop-color:#4c4c4c;stop-opacity:0.21568628;"
          offset="0"
          id="stop3786-4" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#4c4c4c;stop-opacity:0;"
          offset="1"
          id="stop3788-6" />
     </linearGradient>
@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="12.734727"
-     inkscape:cy="10.911658"
+     inkscape:zoom="22.627418"
+     inkscape:cx="4.6255954"
+     inkscape:cy="10.407616"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -111,10 +111,6 @@
        orientation="1,0"
        position="12,12"
        id="guide4316" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="12,12"
-       id="guide4318" />
   </sodipodi:namedview>
   <metadata
      id="metadata4311">
@@ -134,28 +130,28 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <g
-       id="titlebutton-min"
+       style="display:inline;opacity:0.7"
+       id="titlebutton-min-dark"
        inkscape:label="#g6247"
-       transform="translate(-583,1218)"
-       style="display:inline;opacity:0.8">
+       transform="translate(-583.00002,1218)">
       <g
-         id="g7138"
+         id="g7138-6-5"
          style="display:inline;opacity:1"
          transform="translate(-781,-432.63782)">
         <g
            transform="translate(-58,0)"
            style="display:inline;opacity:1"
-           id="g4490-3-75">
+           id="g4490-3-75-4-7">
           <g
-             id="g4092-0-7-0"
+             id="g4092-0-7-0-4-9"
              style="display:inline"
              transform="translate(58,0)" />
         </g>
         <path
            inkscape:connector-curvature="0"
            d="m 1373,254 0,2 6,0 0,-2 z"
-           id="rect9057-4-3"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#7a7f8b;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="rect9057-4-3-8-5"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#b9bcc2;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
            sodipodi:nodetypes="ccccc" />
       </g>
       <rect
@@ -163,7 +159,7 @@
          x="587"
          height="16"
          width="16"
-         id="rect17883-32"
+         id="rect17883-32-6-9"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
     </g>
   </g>
